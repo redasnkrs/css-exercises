@@ -1,0 +1,21 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pink {
+  background-color: lightpink;
+}
+
+#blue {
+  color: blue;
+  font-size: 36px;
+}
+
+#green {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+.size {
+  font-size: 24px;
+}
